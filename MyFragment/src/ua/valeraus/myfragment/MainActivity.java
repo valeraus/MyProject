@@ -38,6 +38,7 @@ public class MainActivity extends FragmentActivity {
 			// infoTextView.setText("1");
 			Toast.makeText(getApplicationContext(), "Notes", Toast.LENGTH_SHORT)
 					.show();
+			
 			return true;
 		case R.id.action_trash:
 			// infoTextView.setText("2");
